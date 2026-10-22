@@ -1,0 +1,5 @@
+Nguồn dữ liệu chính: MAU_THU_THAP_DU_LIEU_22_CSLT_THEO_KHU_VUC(AutoRecovered)(1).xlsx
+Sheet DANH_SACH_22_CSLT: mã điểm, nhóm yêu cầu, tên, loại hình, hạng sao, địa chỉ, tọa độ, link Google Maps.
+Sheet KHAO_SAT_CHI_TIET: thông tin tiện ích, giá tham khảo, nguồn giá, điểm nổi bật và ghi chú.
+Ảnh được gắn vào website chỉ khi thư mục ảnh khớp tên cơ sở trong dữ liệu mới. Những ảnh không khớp đã không được sử dụng.
+Lưu ý: giá là mức tham khảo được nhập trong file Excel, không phải giá trực tiếp theo thời gian thực; hạng sao hiển thị đúng như dữ liệu nguồn.
